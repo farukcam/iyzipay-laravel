@@ -17,6 +17,7 @@
       "role": "Software Engineer"
     }
   ],
+  "minimum-stability":"dev",
   "require": {
     "php": "~7.0|~7.1",
     "doctrine/dbal": "^2.5",
@@ -53,6 +54,5 @@
   },
   "config": {
     "sort-packages": true
-  },
-  "minimum-stability":"dev",
+  }
 }
