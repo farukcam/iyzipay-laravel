@@ -18,7 +18,7 @@
     }
   ],
   "require": {
-    "php": "~7.0|~7.1",
+    "php": ">=5.4.0",
     "doctrine/dbal": "^2.5",
     "iyzico/iyzipay-php": "^2.0",
     "netresearch/jsonmapper": "^1.1"
