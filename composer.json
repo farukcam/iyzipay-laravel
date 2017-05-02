@@ -1,5 +1,5 @@
 {
-  "name": "iyzico/iyzipay-laravel",
+  "name": "farukcam/iyzipay-laravel",
   "type": "library",
   "description": "Iyzipay (by Iyzico) integration for your Laravel projects.",
   "keywords": [
@@ -7,7 +7,7 @@
     "iyzico",
     "iyzipay"
   ],
-  "homepage": "https://github.com/iyzico/iyzipay-laravel",
+  "homepage": "https://github.com/farukcam/iyzipay-laravel",
   "license": "MIT",
   "authors": [
     {
